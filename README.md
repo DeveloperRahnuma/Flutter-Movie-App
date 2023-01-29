@@ -1,6 +1,4 @@
-# Movie Info App - Flutter UI
-
-## [Watch it on YouTube](https://youtu.be/OgSLd2lH1FM)
+# Movie Info App - Flutter UI By Rahnuma Sharib
 
 **Packages we are using:**
 
